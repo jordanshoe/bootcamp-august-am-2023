@@ -1,0 +1,106 @@
+.margin-one-value{
+    background-color: tomato;
+    margin: 20px;
+}
+.margin-two-value{
+    background-color: teal;
+    margin: 15px 20px;
+    
+}
+.margin-three-value{
+    background-color: thistle;
+    margin: 10px 30px 25px;
+}
+.margin-four-value{
+    background-color: aqua;
+    margin: 15px 20px 25px 30px;
+}
+.margin-left{
+    background-color: yellowgreen;
+    margin-left: 10%;
+}
+
+.margin-right{
+    background-color: maroon;
+    margin-right: 20%;
+}
+.margin-top{
+    background-color: turquoise;
+    margin-top: 15%;
+}
+.margin-bottom{
+    background-color:wheat;
+    margin-bottom: 20px;
+}
+
+.padding-one-value{
+    padding: 20px;
+}
+
+.padding-two-value{
+    padding: 15px 25px;
+}
+.padding-three-value{
+    padding: 10% 15% 5%;
+}
+
+.padding-four-value{
+    padding: 5% 10% 15% 20%;
+}
+.padding-left{
+    padding-left: 100px;
+}
+
+.padding-right{
+    text-align: right;
+    padding-right: 100px;
+}
+.padding-top{
+    padding-top: 10%;
+}
+.padding-bottom{
+    padding-bottom: 50px;
+}
+.centering-box{
+    background: salmon;
+    width: 60%;
+    padding: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.border-radius{
+    width: 300px;
+    height: 200px;
+    border: 10px double teal;
+    border-radius: 20px;
+}
+.border-radius-circle{
+    width: 100px;
+    height: 100px;
+    border: 5px dotted yellowgreen;
+    margin-top: 20px;
+    border-radius:100px ;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.box-sizing-content-box{
+    border: 5px dashed red;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    box-sizing: content-box;
+}
+
+.box-sizing-border-box{
+    border: 5px dashed blue;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+

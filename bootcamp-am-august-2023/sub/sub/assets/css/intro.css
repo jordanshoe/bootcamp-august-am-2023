@@ -1,0 +1,35 @@
+/* Univesal */
+*{
+     color: palevioletred;
+}
+/* Universal element */
+p{
+     color: blueviolet;
+}
+/* CLASS . */
+.paragraph1 *{
+     color: red;
+}
+
+/* ID # */
+#paragraph2{
+     color: blue;
+}
+
+/* Element to ID */
+p#para-id{
+     color: green;
+} 
+
+/* Element to Class */
+p.para_class{
+     color: yellowgreen;
+}
+
+/* Element to element nesting*/
+p strong{
+     color: black;
+}
+ul li a{
+     color: cadetblue;
+}
